@@ -1,4 +1,4 @@
-# Vani - Desi Virtual Assistant
+ Virtual Assistant
 
 Vani is a Python-based virtual assistant with a desi touch, inspired by Alexa. It uses speech recognition, text-to-speech, and is integrated with Google’s Generative AI model Gemini to provide intelligent responses.
 
