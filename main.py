@@ -54,8 +54,10 @@ def processcommand(c):
     webbrowser.open("https://www.instagram.com")
   elif "open linkedin" in c.lower():
     webbrowser.open("https://www.linkedin.com")
+  elif "open Github" in c.lower():
+     webbrowser.open("https://github.com/")
   elif "introduce yourself" in c.lower():
-    speak("I am Vani, your virtual assistant. I can help you with various tasks like searching the web, playing music, and answering questions.")
+    speak("I am VR, your virtual assistant. I can help you with various tasks like searching the web, playing music, and answering questions.")
   elif c.lower().startswith("play"):
     
     try:  
